@@ -1,0 +1,6 @@
+{
+   "shell-version": ["3.0"],
+   "uuid": "nobluetooth-sebz",
+   "name": "nobluetooth",
+   "description": "Remove bluetooth icon/menu from panel"
+}
